@@ -1,4 +1,4 @@
-# Company and proprietor information.
+# Company Information.
 
 http://UsefulEngines.com
 
