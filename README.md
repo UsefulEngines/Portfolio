@@ -5,16 +5,16 @@
 
 This project integrates with UltiPro payroll services via Cognos BI Report-as-a-Service API to generate Washington State Department of Retirement Services (DRS) employee and employer contribution reporting.
 * **Technologies:** WebServices-SOAP, C#, IBM Cognos BI, Excel Integration
-* **Input:** Bi-weekly payroll deductions, rates, and retirement plan classifications per employee. 
-* **Output:** Excel validation and invoicing report; DRS compatible upload file.
+* **Inputs:** Bi-weekly payroll deductions, rates, and retirement plan classifications per employee. 
+* **Outputs:** Excel validation and invoicing report; DRS compatible upload file.
 * **Features:** PERS1/2/3 Support; Split-Period Prorating; Rate-change Adjustments; GL Invoice; Extensive Validations  
 
 # [Project 2: Workforce Management Project Accounting Labor Metrics](https://github.com/0xC0DE4F00D/WFMLaborMetrics)
 
 This project integrates Project Accounting workflows with Employee Time-Entry to accomplish Labor Metrics Analytics and Business Process Automation.
 * **Technologies:** REST, SOAP, MS Great Plains, SQL, Cognos BI API, Snowflake DW/API, AWS S3 API, UltiPro/UKG Workforce Management, C#, .NET5/Blazor, Azure AppServices, Azure DevOps CI/CD
-* **Input:** Employee time-entry via WFM timesheet extensions; MSGP Project Accounting extensions 
-* **Output:** Labor Metrics time-entry automation; Project Accounting General Ledger data-flows; Employee Timesheet configuration automation; Analytics
+* **Inputs:** Employee time-entry via WFM timesheet extensions; MSGP Project Accounting extensions 
+* **Outputs:** Labor Metrics time-entry automation; Project Accounting General Ledger data-flows; Employee Timesheet configuration automation; Analytics
 * **Features:** .NET Core / Blazor SPA for Employee Self-Service Timesheet Customizations; MSGP Project Accounting Integration; UltiPro/UKG Workforce Management Integration; Snowflake Data Warehouse hub supporting data-pipelines and analytics
 
 * [Under Construction...](https://UsefulEngines.com)
