@@ -1,5 +1,5 @@
 # Useful Engines
-* Software development by [Phil Pennington](http://PhilPennington.me)*
+* by [Phil Pennington](http://PhilPennington.me)
 
 # [Project 1: UltiPro Extension for DRS Reporting](https://github.com/0xC0DE4F00D/UltiProPERS)
 
