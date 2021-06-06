@@ -1,7 +1,7 @@
 # Useful Engines
 * by [Phil Pennington](http://PhilPennington.me)
 
-# [Project 1: UltiPro Extension for DRS Reporting](https://github.com/0xC0DE4F00D/UltiProPERS)
+# [Project 1: UltiPro/UKG Payroll System Extension for DRS Reporting](https://github.com/0xC0DE4F00D/UltiProPERS)
 
 This project integrates with UltiPro payroll services via Cognos BI Report-as-a-Service API to generate Washington State Department of Retirement Services (DRS) employee and employer contribution reporting.
 * **Technologies:** WebServices-SOAP, C#, IBM Cognos BI, Excel Integration
