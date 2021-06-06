@@ -17,5 +17,5 @@ This project integrates Project Accounting workflows with Employee Time-Entry to
 * **Output:** Labor Metrics time-entry automation; Project Accounting General Ledger data-flows; Employee Timesheet configuration automation; Analytics
 * **Features:** .NET Core / Blazor SPA for Employee Self-Service Timesheet Customizations; MSGP Project Accounting Integration; UltiPro/UKG Workforce Management Integration; Snowflake Data Warehouse hub supporting data-pipelines and analytics
 
-# [Under Construction](https://UsefulEngines.com)
+* [Under Construction...](https://UsefulEngines.com)
 
