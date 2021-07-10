@@ -1,7 +1,7 @@
 # Useful Engines
 * by [Phil Pennington](http://PhilPennington.me)
 
-![alt text](UsefulMan600x400.png)
+![alt text](UsefulMan960x640.png)
 
 # [Project 1: Payroll System Extension for DRS Reporting](https://github.com/0xC0DE4F00D/UltiProPERS)
 
@@ -19,5 +19,19 @@ This project integrates Project Accounting workflows with Employee Time-Entry wo
 * **Outputs:** Labor Metrics time-entry automation; Project Accounting General Ledger data-flows; Employee Timesheet configuration automation; Analytics
 * **Features:** .NET5/Blazor web-app enabling Employee Self-Service Timesheet Customizations; MSGP Project Accounting Integration; UltiPro/UKG Workforce Management Integration; Snowflake Data Warehouse supporting data-pipelines and analytics
 
-* [More coming soon...](https://UsefulEngines.com)
+# [Project 3: Data Center Infrastructure Management Technology Adoption](https://github.com/UsefulEngines/DcimTechnologyAdoption)
+
+This project encompassed design, development, and operations of a custom global Data Center Infrastructure Management (DCIM) enterprise SaaS solution. The project entails centralized management of 20+ data-center locations supporting 150+ IT Operations staff-members and hundreds of tenant users. 
+* **Technologies:** NLyte, ServiceNow, SQL Server, ASP.NET, vSphere, vCenter, SOAP/REST, SSRS, Excel
+* **Inputs:** Data Center Asset Records, Power Distribution Metrics, Operational Workflows, Tenant Accounts, Reservations, Capacity Metrics, and others.
+* **Outputs:** Full-scoped visualizations, analytics, workflow automations, and functionality supporting numerous use-role use-case scenarios.
+* **Features:** Custom applications with NLyte integrations supporting various user-roles including Capacity Planner, Reservations Manager, Tenant Manager, Power Manager, and Operations Manager. 
+  
+# [Project 4: University Parallel Computing Research Center Summer School](https://github.com/UsefulEngines/upcrc2011)
+
+This project entailed delivery of lectures along with development of hands-on-labs supporting HPC and Parallel Computing topics at the University of Illinois Parallel Computing Research Center.
+* **Technologies:** Windows HPC Server, C++ Concurrency Runtime, .NET Parallel Extensions, Visual Studio tools including Parallel Debugger, Profiler, and Analyzer.
+* **Features:** See corresponding community contributions via [GitHub](https://github.com/UsefulEngines?tab=repositories)
+
+* [@UsefulEngines](https://UsefulEngines.com)
 
