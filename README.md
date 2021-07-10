@@ -31,7 +31,7 @@ This project encompassed design, development, and operations of a custom global 
 
 This project entailed delivery of lectures along with development of hands-on-labs supporting HPC and Parallel Computing topics at the University of Illinois Parallel Computing Research Center.
 * **Technologies:** Windows HPC Server, C++ Concurrency Runtime, .NET Parallel Extensions, Visual Studio tools including Parallel Debugger, Profiler, and Analyzer.
-* **Features:** See corresponding community contributions via [GitHub](https://github.com/UsefulEngines?tab=repositories)
+* **Features:** See corresponding [community contributions](https://github.com/UsefulEngines?tab=repositories).
 
-* [@UsefulEngines](https://UsefulEngines.com)
+* [@UsefulEngines](https://GitHub.com/UsefulEngines)
 
