@@ -1,4 +1,4 @@
-# Useful Engines
+# Phil@UsefulEngines.com
 * by [Phil Pennington](http://PhilPennington.me)
 
 ![alt text](UsefulMan960x640.png)
